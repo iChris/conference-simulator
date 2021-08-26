@@ -6,12 +6,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Conference Simulator Video</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Welcome to the Conference Simulator!" />
+        <h1>Welcome</h1>
         <p className="description">
           It started with a <a href="https://twitter.com/zachleat/status/1430549135602733057?s=21">tweet from Zach Leatherman</a>.
         </p>
