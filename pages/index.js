@@ -12,11 +12,14 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to the Conference Simulator!" />
+
         <h1>Welcome</h1>
+        
         <p className="description">
           It started with a <a href="https://twitter.com/zachleat/status/1430549135602733057?s=21">tweet from Zach Leatherman</a>.
         </p>
         
+       
         <h1>Current Version of the Video</h1>
         <p>You can view / download it <a href="https://vimeo.com/592861836">here</a>.</p>  
         <p><em>I'm sure there's a way to embed video here but I <a href="https://github.com/iChris/conference-simulator">picked a new to me starter</a> and I have no idea. :)</em></p>
